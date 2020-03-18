@@ -1,5 +1,22 @@
 # Changelog
 
+### [0.2.2](https://www.github.com/googleapis/java-irm/compare/v0.2.1...v0.2.2) (2020-03-18)
+
+
+### Dependencies
+
+* update core dependencies to v1.54.0 ([#59](https://www.github.com/googleapis/java-irm/issues/59)) ([e08d632](https://www.github.com/googleapis/java-irm/commit/e08d632919d59cdb21030f6b47c9f1989c6b777e))
+* update dependency com.google.protobuf:protobuf-java to v3.11.4 ([87ad008](https://www.github.com/googleapis/java-irm/commit/87ad008241a61a3bf3e93ff50253da1a3992cb73))
+* update dependency io.grpc:grpc-bom to v1.27.1 ([3ad8863](https://www.github.com/googleapis/java-irm/commit/3ad8863c9b49b9ed252b2da1757388da2bab737a))
+* update dependency io.grpc:grpc-bom to v1.27.2 ([92213cc](https://www.github.com/googleapis/java-irm/commit/92213ccf6a322b51850430faba971d32a9803e61))
+* update dependency io.grpc:grpc-bom to v1.28.0 ([#64](https://www.github.com/googleapis/java-irm/issues/64)) ([3813d9d](https://www.github.com/googleapis/java-irm/commit/3813d9d6ac80bd87a28c77439de90c47461ad571))
+* update java-core ([#61](https://www.github.com/googleapis/java-irm/issues/61)) ([7140042](https://www.github.com/googleapis/java-irm/commit/714004261d0f6be9c5a2d85b28a8e93588145b2c))
+
+
+### Documentation
+
+* **regen:** update sample code to set total timeout, add API client header test ([11275c4](https://www.github.com/googleapis/java-irm/commit/11275c47bbfd96c8b41b6c21ebca453095245208))
+
 ### [0.2.1](https://www.github.com/googleapis/java-irm/compare/v0.2.0...v0.2.1) (2020-02-04)
 
 
